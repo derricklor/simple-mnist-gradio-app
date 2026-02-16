@@ -12,8 +12,8 @@ To set up and run this project, follow these steps:
 
 1.  **Clone the repository (if applicable):**
     ```bash
-    git clone <repository_url>
-    cd MNIST_gradio_app
+    git clone https://github.com/derricklor/simple-mnist-gradio-app.git
+    cd simple-mnist-gradio-app
     ```
 
 2.  **Create a virtual environment (recommended):**
